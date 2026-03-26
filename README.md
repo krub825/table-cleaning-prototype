@@ -16,6 +16,7 @@
 ## Важно!
 
 Для тестирования необходимо добавить в директорию /videos видео из - https://drive.google.com/file/d/1rYmJB13vvV96JuDUrBvlEXtoKFPWo75A/view?usp=drive_link
+Далее переименовать данный файл в video1.mp4 (как в примере запуска)
 
 Результирующие файлы с роликом и отчетом по этой ссылке - https://drive.google.com/drive/folders/1BNmWaUhPcIgm2THOHkpbycX0X6tECk60?usp=sharing
 
