@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+venv/
+.env/
+
+# Outputs
+outputs/*.mp4
+outputs/*.csv
+
+# Videos (опционально)
+videos/*.mp4
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
